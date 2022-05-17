@@ -11,3 +11,4 @@ algorithm = HS256
 
 ```
 4) run uvicorn example:app --reload 
+5) http://127.0.0.1:8000/docs - call api functions
